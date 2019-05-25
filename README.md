@@ -2,12 +2,11 @@
 # This is code I have been playing around with to learn the coding principles of python
 # These are exercises from the book 
 
-## "LEARN PYTHON THE HARD WAY
+"LEARN PYTHON THE HARD WAY
+ A Very Simple Introduction
+to the Terrifyingly Beautiful World
+of Computers and Code
 
-## A Very Simple Introduction
-## to the Terrifyingly Beautiful World
-## of Computers and Code
+Third Edition
 
-## Third Edition
-
-## by: Zed A. Shaw"
+by: Zed A. Shaw"
