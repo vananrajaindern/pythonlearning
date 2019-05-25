@@ -1,6 +1,7 @@
-# pythonlearning
-# This is code I have been playing around with to learn the coding principles of python
-# These are exercises from the book 
+# Python learning
+
+This is code I have been playing around with to learn the coding principles of python
+These are exercises from the book 
 
 "LEARN PYTHON THE HARD WAY
  A Very Simple Introduction
